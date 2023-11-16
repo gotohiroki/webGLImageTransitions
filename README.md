@@ -18,5 +18,5 @@ npm run build
 npm run preview
 ```
 
-📝 ~ Note
+📝 ~ Note<br />
 https://tympanus.net/codrops/2019/11/05/creative-webgl-image-transitions/

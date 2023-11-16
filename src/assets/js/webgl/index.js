@@ -33,6 +33,4 @@ export default class webGL {
     this.plane.onUpdate();
   }
 
-
-
 }

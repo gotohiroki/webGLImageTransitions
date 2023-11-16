@@ -1,6 +1,6 @@
 # webGLImageTransitions
 
-<img src="screenshot.mp4">
+<img src="screenshot.png">
 
 ## 🎮 ~ Getting Started
 
